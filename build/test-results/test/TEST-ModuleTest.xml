@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ModuleTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-11-04T13:49:44" hostname="FIACHRAS-MBP.station" time="0.105">
+  <properties/>
+  <testcase name="retrievingAndManipulatingData()" classname="ModuleTest" time="0.025"/>
+  <testcase name="addingAndRemovingCourse()" classname="ModuleTest" time="0.049"/>
+  <testcase name="addingAndRemovingStudent()" classname="ModuleTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

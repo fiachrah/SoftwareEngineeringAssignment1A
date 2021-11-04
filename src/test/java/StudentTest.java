@@ -1,3 +1,6 @@
+import StudentRegistrationSystem.Course;
+import StudentRegistrationSystem.Module;
+import StudentRegistrationSystem.Student;
 import org.joda.time.DateTime;
 import org.junit.jupiter.api.*;
 
