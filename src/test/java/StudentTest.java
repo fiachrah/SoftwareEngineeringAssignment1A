@@ -23,7 +23,7 @@ class StudentTest {
         Assertions.assertEquals(21, dave.getAge());
         Assertions.assertEquals(1, dave.getID());
         Assertions.assertEquals(new DateTime(2000,4,26,0,0), dave.getDOB());
-        Assertions.assertEquals("Dave21", dave.getUsername());
+        Assertions.assertEquals("dave21", dave.getUsername());
 
         // Manipulating Data using Setters
 
@@ -36,7 +36,7 @@ class StudentTest {
         Assertions.assertEquals("David", dave.getName());
         Assertions.assertEquals(19, dave.getAge());
         Assertions.assertEquals(new DateTime(2002,4,26,0,0), dave.getDOB());
-        Assertions.assertEquals("David19", dave.getUsername());
+        Assertions.assertEquals("david19", dave.getUsername());
 
     }
 

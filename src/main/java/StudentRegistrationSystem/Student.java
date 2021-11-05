@@ -55,7 +55,9 @@ public class Student {
     }
 
     public String getUsername() {
-        return name+age;
+
+        return (name+age).toLowerCase().replaceAll("\\s","");
+
     }
 
     public ArrayList<Course> getCourses() {
